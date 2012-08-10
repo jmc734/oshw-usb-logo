@@ -4,6 +4,8 @@ OSHW+USB Logo
 A combination of the OSHW logo and the standard USB symbol for the PCB of a USB dongle I am working on.
 
 
+![Sample](https://raw.github.com/jmc734/oshw-usb-logo/master/Original/bitmap_400.png "Sample")
+
 License
 -------
 
